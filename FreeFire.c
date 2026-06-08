@@ -8,6 +8,8 @@
 // Aluno: Francisco Araújo de Paiva Junior
 // Tema 2 - Lista e Ordenação (2º Semestre 2026)
 // Nível: Mestre
+// PROFESSORES: TODOS OS NIVEIS NO MEU:
+// GITHUB: https://github.com/FcoJrPRO/programacaoC
 
 // A struct Componente agrupa todos os atributos necessarios para construir a torre de fuga, atuando como o tipo de dado principal do sistema.
 typedef struct {
